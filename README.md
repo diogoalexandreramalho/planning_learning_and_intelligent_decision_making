@@ -4,7 +4,7 @@
 
 *This repository includes the code developed in the course Planning, Learning and Intelligent Decision Making of my MSc in Computer Science.*
 
-The code is related to five distainct labs:
+The code is related to five distinct labs:
 
 1. Markov Chains and PageRank
 2. Markov Decision Process (MDP)
